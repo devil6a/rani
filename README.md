@@ -1,1 +1,2 @@
-# rani
+# Translated into Ukrainian
+Garuda Rani
